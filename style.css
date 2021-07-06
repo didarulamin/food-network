@@ -112,7 +112,7 @@ a {
 
 #container {
   margin: 0 auto;
-  height: 600px;
+  /*height: 600px;*/
   margin: 5%;
 }
 
@@ -126,7 +126,7 @@ a {
   border-radius: 20px;
   box-shadow: 5px 7px 40px gray;
   width: 33.33%;
-  height: 570px;
+  height: 80vh;
   margin: 1%;
 }
 

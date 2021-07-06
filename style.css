@@ -16,6 +16,12 @@ span {
   font-size: 50px;
   height: 234px;
   color: #575757;
+  padding: 10px;
+}
+
+#first-section img {
+  padding: 15px;
+  margin-left: 10px;
 }
 
 header a {
@@ -56,9 +62,6 @@ a {
   display: flex;
 }
 
-.third-section {
-  padding: 30px;
-}
 .myRecipies {
   width: 40%;
   height: 160px;
@@ -67,12 +70,11 @@ a {
 
 .card-item img {
   border-radius: 20px;
-  margin-left: 50px;
 }
 
 footer {
   background-color: black;
-  height: 250px;
+  height: 200px;
   margin-top: 50px;
 }
 footer div {
@@ -86,15 +88,10 @@ footer p {
   color: white;
 }
 
-.card-item {
-  border-radius: 20px;
-  box-shadow: 5px 7px 40px gray;
-  margin-left: 5%;
-  margin-right: 5%;
-  padding: 10px;
-  width: 30%;
-  height: 530px;
-  flex: 1;
+.container {
+  width: 90%;
+  margin: 0 auto;
+  height: 100vh;
 }
 
 .row {
@@ -107,7 +104,7 @@ footer p {
 .card {
   margin-right: 60px;
   margin-right: 60px;
-  box-shadow: 0px 0px 5px 0px;
+
   border-radius: 20px;
   box-shadow: 5px 7px 40px gray;
   width: 33.33%;
@@ -146,6 +143,8 @@ header h1 {
 .testimonial-card {
   border: 2px solid gray;
   margin: 10px;
+  padding: 20px;
+  border-radius: 10px;
 }
 
 .text-center {

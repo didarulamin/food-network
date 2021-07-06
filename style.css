@@ -37,15 +37,15 @@ header {
   height: 50px;
 }
 
-header h1 {
+#company-logo {
   margin: 0 10px;
 }
-.header-right {
+#navbar-link {
   margin-left: 400px;
   margin: 15px auto;
 }
 
-#search {
+#search-bar {
   border-radius: 30px;
   padding: 10px;
 }
@@ -105,18 +105,18 @@ a {
 
 /*third section styles*/
 
-.myRecipies {
+#myRecipies {
   margin: 0 auto;
   width: 40%;
 }
 
-.container {
+#container {
   margin: 0 auto;
   height: 550px;
   margin: 5%;
 }
 
-.row {
+#row {
   display: flex;
   margin: 40px auto;
   width: 100%;

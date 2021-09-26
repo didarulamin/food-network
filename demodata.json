@@ -169,6 +169,44 @@
       "twitter": "https://twitter.com/SarinaDuPont",
       "github": "http://t.co/EkIFWCKPpU?amp=1"
     }
+  },
+       {
+    "key": "31999ae2-jtls-4985-fg11-3958ft4586f",
+    "first_name": "Nana",
+    "last_name": "",
+    "email": "Nana@webeden.co.uk",
+    "gender": "female",
+    "job_title": "Devops Engineer",
+    "country": "Indonesia",
+    "img": "https://pbs.twimg.com/profile_images/1293275332099833858/q5MKGtIb_400x400.jpg",
+    "experience": 7,
+    "language_skill": "English",
+    "age": 28,
+    "salary": 5500,
+    "bio": "DevOps Engineer 💡 | Docker Captain 🐳  | AWS Containers Hero ☁️  | CNCF Ambassador  | Teaching the world DevOps 🎬  💙",
+    "social_network": {
+      "twitter": "https://twitter.com/Njuchi_",
+      "github": "https://t.co/onGNPra0aW?amp=1"
+    }
+  },
+         {
+    "key": "31999ae2-jtls-4985-fg11-3958494586f",
+    "first_name": "Tomas ",
+    "last_name": "PyTel",
+    "email": "PyTel@webeden.co.uk",
+    "gender": "Male",
+    "job_title": "Devops Engineer",
+    "country": "Indonesia",
+    "img": "https://pbs.twimg.com/profile_images/1293275332099833858/q5MKGtIb_400x400.jpg",
+    "experience": 7,
+    "language_skill": "English",
+    "age": 28,
+    "salary": 5500,
+    "bio": "Python engineer & DevOps. @ThePSF member. @PyConSK organizer. @PyCon speaker. All opinions are my own.",
+    "social_network": {
+      "twitter": "https://twitter.com/Pytlicek",
+      "github": "https://t.co/9S7lq08m21?amp=1"
+    }
   }
   
 ]

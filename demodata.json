@@ -74,5 +74,63 @@
       "twitter": "https://twitter.com/AadilRashid83",
       "github": "https://blog.jonathanchannon.com/"
     }
+  },
+    {
+    "key": "31999ae2-49ea-4985-b711-393111b43gdf",
+    "first_name": "Julien ",
+    "last_name": "Phalip",
+    "email": "Phalip@webeden.co.uk",
+    "gender": "Male",
+    "job_title": "Web Designer",
+    "country": "Indonesia",
+    "img": "https://pbs.twimg.com/profile_images/424031624/dju_400x400.jpg",
+    "experience": 3,
+    "language_skill": "English",
+    "age": 35,
+    "salary": 4000,
+    "bio": "Web Engineer, Interaction Designer & Data Scientist. Cloud Solutions Architect at Google. Co-Founder of",
+    "social_network": {
+      "twitter": "https://twitter.com/julienphalip/",
+      "github": "https://github.com/jphalip"
+    }
+  },
+   {
+    "key": "31999ae2-49ea-4985-b711-395891b43gdf",
+    "first_name": "Julien ",
+    "last_name": "Phalip",
+    "email": "Phalip@webeden.co.uk",
+    "gender": "Male",
+    "job_title": "Web Designer",
+    "country": "Indonesia",
+    "img": "https://pbs.twimg.com/profile_images/378800000039393572/d3e71e4d493d14e93bd9568d148e1d5d_400x400.jpeg",
+    "experience": 3,
+    "language_skill": "English",
+    "age": 35,
+    "salary": 4000,
+    "bio": "Blog dedicato al web design e alla professione del web designer. Fresh ideas for growing your business!",
+    "social_network": {
+      "twitter": "https://twitter.com/Iwebdesigner_it/",
+      "github": "https://t.co/COySVjNaTo?amp=1"
+    }
+  },
+  {
+    "key": "31999ae2-49ej-4985-fg11-395891b43gdf",
+    "first_name": "Lucy ",
+    "last_name": "O'Reilly",
+    "email": "O'Reilly@webeden.co.uk",
+    "gender": "female",
+    "job_title": "Web Designer",
+    "country": "Indonesia",
+    "img": "https://pbs.twimg.com/profile_images/1207400472929288192/9A7FgPEW_400x400.jpg",
+    "experience": 10,
+    "language_skill": "English",
+    "age": 40,
+    "salary": 8000,
+    "bio": "Web & graphic designer in Dun Laoghaire, marketeer, Red heart all things digital, culture, the arts! would love to help you with your designs!",
+    "social_network": {
+      "twitter": "https://twitter.com/WebDesignerLucy",
+      "github": "https://www.lucydesigns.ie/"
+    }
   }
+  
 ]

@@ -131,6 +131,44 @@
       "twitter": "https://twitter.com/WebDesignerLucy",
       "github": "https://www.lucydesigns.ie/"
     }
+  },
+    {
+    "key": "31999ae2-jtls-4985-fg11-395891b43gdf",
+    "first_name": "Linda",
+    "last_name": "Xie",
+    "email": "Xie@webeden.co.uk",
+    "gender": "female",
+    "job_title": "Product Manager",
+    "country": "Indonesia",
+    "img": "https://pbs.twimg.com/profile_images/1052294100613881856/dCB_6FUB_400x400.jpg",
+    "experience": 3,
+    "language_skill": "English",
+    "age": 28,
+    "salary": 9000,
+    "bio": "Co-founder @ScalarCapital, co-producer @EthereumFilm, previously product manager @Coinbase",
+    "social_network": {
+      "twitter": "https://twitter.com/ljxie",
+      "github": "https://t.co/eyvOUZEO7I?amp=1"
+    }
+  },
+     {
+    "key": "31999ae2-jtls-4985-fg11-395891b4586f",
+    "first_name": "Sarina ",
+    "last_name": "DuPont",
+    "email": "DuPont@webeden.co.uk",
+    "gender": "female",
+    "job_title": "Product Manager",
+    "country": "Indonesia",
+    "img": "https://pbs.twimg.com/profile_images/1052294100613881856/dCB_6FUB_400x400.jpg",
+    "experience": 2,
+    "language_skill": "English",
+    "age": 28,
+    "salary": 4000,
+    "bio": "Tweeting about all things related to technology, including software, hardware and gadgets",
+    "social_network": {
+      "twitter": "https://twitter.com/SarinaDuPont",
+      "github": "http://t.co/EkIFWCKPpU?amp=1"
+    }
   }
   
 ]
